@@ -1,0 +1,16 @@
+# Folders
+alembic/
+DOCUS/
+DUMP/
+"SAP DATA UPLOAD/"
+tests/
+venvstreamlit/
+
+# Files
+alembic.ini
+strl_training.py
+myapp/config.py
+
+# Additional Files
+*.pyc
+__pycache__/
